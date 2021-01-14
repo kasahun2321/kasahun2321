@@ -17,8 +17,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/kasahun-shimelis-535660149/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.facebook.com/kasahun.shimelis/" />][Facebook]
+<!--[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/kasahun-shimelis-535660149/" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.facebook.com/kasahun.shimelis/" />][Facebook]-->
 
 <br />
 
@@ -62,15 +62,8 @@
 
 ### 📕 Latest Blog Posts
 
-
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-
-
 </details>
 
 <details>
