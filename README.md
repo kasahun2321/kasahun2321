@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://cdn.vox-cdn.com/thumbor/wQzCl28UTjkGdKWyaqHR2T6Dn_g=/0x112:499x393/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/49582279/b3fb6136670749.5724cb60928bf.0.0.gif" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://github.com/kasahun2321/kasahun2321.github.io/blob/master/blk.jpg" alt="codeSTACKr Spotify Playing" width="350" />](https://github.com/kasahun2321)
 
 ### Connect with me:
 
