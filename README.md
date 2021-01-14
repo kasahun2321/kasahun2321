@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: developing problem solving appliacations
 - ⚡ Fun fact: I love to read and play piano
 
-### Spotify Playing 🎧
+### the Black Panter
 
 [<img src="https://github.com/kasahun2321/kasahun2321.github.io/blob/master/blk.jpg" alt="codeSTACKr Spotify Playing" width="350" />](https://github.com/kasahun2321)
 
