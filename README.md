@@ -12,5 +12,8 @@ Hi there i am Kasahun Tehone 🤜
 </ul>
 
   [linkedIn.](https://www.linkedin.com/in/kasahun-tehone-535660149/)| [facebook](https://www.facebook.com/kasahun.shimelis)|
+  
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasahun2321)
    
  
