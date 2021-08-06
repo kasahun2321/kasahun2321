@@ -7,26 +7,14 @@ Hi there i am Kasahun Tehone 🤜
  <li>I am currently looking for a job
  </li> <li>finishing my master soon ..
  </li> <li>very passionated working on Angular,Neact and Node
- </li> <li>you can Reach me
+ </li> <li>💬 Ask me about **AWS,Angular,Node, React,Js**
  </li> 
 </ul>
+- 📫 How to reach me **https://www.linkedin.com/in/kasahun-tehone-535660149/ |https://www.facebook.com/kasahun.shimelis**
 
-  [linkedIn.](https://www.linkedin.com/in/kasahun-tehone-535660149/)| [facebook](https://www.facebook.com/kasahun.shimelis)|
-  
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasahun2321)
-   
- 
-<h1 align="center">Hi 👋, I'm Kasahun Tehone</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasahun2321&label=Profile%20views&color=0e75b6&style=flat" alt="kasahun2321" /> </p>
 
-- 🔭 I’m currently working on **ACH Payment Processing System**
-
-- 💬 Ask me about **AWS,Angular,Node, React,Js**
-
-- 📫 How to reach me **https://www.linkedin.com/in/kasahun-tehone-535660149/ |https://www.facebook.com/kasahun.shimelis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
