@@ -1,7 +1,7 @@
 ### Hi there, I'm kasahun[codeSTACKr][website] 👋
 
-<!--[![Website](https://kasahun2321.github.io/kasahun2321.github.io/boot/index.html)
-[![Linked In profile(https://www.linkedin.com/in/kasahun-shimelis-535660149/)]-->
+[![Website](https://kasahun2321.github.io/kasahun2321.github.io/boot/index.html)
+[![Linked In profile(https://www.linkedin.com/in/kasahun-shimelis-535660149/)]
 
 ## I'm Student, Developer, and Teacher!!
 
