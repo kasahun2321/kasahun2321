@@ -11,7 +11,7 @@ Hi there i am Kasahun Tehone 🤜
  </li> 
 </ul>
 [linkedin](https://www.linkedin.com/in/kasahun-tehone-535660149/)
-                           | [facebook](https://www.facebook.com/kasahun.shimelis) | 
+[facebook](https://www.facebook.com/kasahun.shimelis) 
  
 
 
