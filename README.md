@@ -10,14 +10,7 @@ Hi there i am Kasahun Tehone 🤜
  </li> <li>you can Reach me  For more information, see [The Swift Programming Language.](http://developer.apple.com/l
  </li> 
 </ul>
-[linkedin](https://www.linkedin.com/in/kasahun-tehone-535660149/)
-[facebook](https://www.facebook.com/kasahun.shimelis) 
- 
 
-
-
-
-  [linkedIn.](https://www.linkedin.com/in/kasahun-tehone-535660149/)|
-   [facebook](https://www.facebook.com/kasahun.shimelis)|
-    For more information, see [The Swift Programming Language.](http://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
+  [linkedIn.](https://www.linkedin.com/in/kasahun-tehone-535660149/)| [facebook](https://www.facebook.com/kasahun.shimelis)|
+   
  
