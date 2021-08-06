@@ -16,3 +16,6 @@ Hi there i am Kasahun Tehone 🤜
 
 
 
+/*:
+  For more information, see [The Swift Programming Language.](http://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
+ */
