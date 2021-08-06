@@ -7,8 +7,8 @@ Hi there i am Kasahun Tehone 🤜
  <li>I am currently looking for a job
  </li> <li>finishing my master soon ..
  </li> <li>very passionated working on Angular,Neact and Node
- </li> <li>you can Reach me [](https://www.linkedin.com/in/kasahun-tehone-535660149/)
-                           | [](https://www.facebook.com/kasahun.shimelis) | 
+ </li> <li>you can Reach me [linkedin](https://www.linkedin.com/in/kasahun-tehone-535660149/)
+                           | [facebook](https://www.facebook.com/kasahun.shimelis) | 
  </li> 
 </ul>
  
