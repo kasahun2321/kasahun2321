@@ -13,6 +13,7 @@ Hi there i am Kasahun Tehone 🤜
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasahun2321)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasahun2321)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
