@@ -11,7 +11,7 @@ Hi there i am Kasahun Tehone 🤜
  </li> 
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasahun2321&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasahun2321&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasahun2321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
