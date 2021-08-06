@@ -7,7 +7,7 @@ Hi there i am Kasahun Tehone 🤜
  <li>I am currently looking for a job
  </li> <li>finishing my master soon ..
  </li> <li>very passionated working on Angular,Neact and Node
- </li> <li>you can Reach me  For more information, see [The Swift Programming Language.](http://developer.apple.com/l
+ </li> <li>you can Reach me  
  </li> 
 </ul>
 
