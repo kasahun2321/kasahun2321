@@ -10,10 +10,12 @@ Hi there i am Kasahun Tehone 🤜
  </li> <li>💬 Ask me about **AWS,Angular,Node, React,Js**
  </li> 
 </ul>
+
+
 - 📫 How to reach me **https://www.linkedin.com/in/kasahun-tehone-535660149/ |https://www.facebook.com/kasahun.shimelis**
 
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasahun2321&label=Profile%20views&color=0e75b6&style=flat" alt="kasahun2321" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
