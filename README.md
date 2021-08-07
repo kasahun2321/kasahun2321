@@ -6,7 +6,7 @@ Hi there i am Kasahun Tehone 🤜
 <ul>
  <li>I am currently looking for a job
  </li> <li>finishing my master soon ..
- </li> <li>very passionated working on Angular,Neact and Node
+ </li> <li>very passionated working on Angular,React and Node
  </li> <li>💬 Ask me about **AWS,Angular,Node, React,Js**
  </li> 
 </ul>
