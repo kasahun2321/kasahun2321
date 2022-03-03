@@ -4,8 +4,8 @@ Hi there i am Kasahun Tehone 🤜
 
 <h5>I'm Full stack web developer working on NodeJs,React.js,ReactNative,Angular,MongoDB,GraphQL ...</h5>
 <ul>
- <li>I am currently looking for a job
- </li> <li>finishing my master soon ..
+ <li>I am currently working As Software Engineer 
+ </li> <li>Masters degree in software development
  </li> <li>very passionated working on Angular,React and Node
  </li> <li>💬 Ask me about **AWS,Angular,Node, React,Js**
  </li> 
@@ -19,7 +19,7 @@ Hi there i am Kasahun Tehone 🤜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasahun-tehone-535660149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasahun-tehone-535660149/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasahun-tehone-535660149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasahun-tehone-535660149/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kasahun.shimelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kasahun.shimelis" height="30" width="40" /></a>
 </p>
 
